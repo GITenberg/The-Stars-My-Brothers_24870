@@ -1,0 +1,44 @@
+_repo: The-Stars-My-Brothers_24870
+_version: 0.1.0
+contributor:
+  illustrator:
+    agent_name: Finlay, Virgil
+    alias: Finlay
+    birthdate: 1914
+    deathdate: 1971
+    gutenberg_agent_id: '26786'
+    url: http://www.gutenberg.org/2009/agents/26786
+    wikipedia: http://en.wikipedia.org/wiki/Virgil_Finlay
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Hamilton, Edmond
+    birthdate: 1904
+    deathdate: 1977
+    gutenberg_agent_id: '26787'
+    url: http://www.gutenberg.org/2009/agents/26787
+    wikipedia: http://en.wikipedia.org/wiki/Edmond_Hamilton
+description: 'He was afraid -- not of the present or the future, but of the past.
+  He was afraid of the thing tagged Reed Kieran, that stiff blind voiceless thing
+  wheeling its slow orbit around the Moon, companion to dead worlds and silent space.
+  . . .Hamilton was a thoughtful SF writer, and you can surely see that here: this
+  is the tale of a man dead in space for centuries -- and revived by folks who approach
+  an alien world a lot the way out nuttier environmentalists approach the defense
+  of trees. There are creatures on this alien world, see, that look like people --
+  and act like chimpanzees. But chimps are animals, aren''t they? Aren''t they ...?'
+gutenberg_bookshelf: Science Fiction
+gutenberg_issued: '2008-03-18'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '24870'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Science fiction'
+- !lcc 'PS'
+title: The Stars, My Brothers
+url: http://www.gutenberg.org/ebooks/24870
